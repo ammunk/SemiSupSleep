@@ -1,0 +1,8 @@
+python/results
+python/hpc_outputs
+python/DataBase
+python/*.pyc
+python/nmf_batch.sh
+python/main_batch.sh
+python/run_several.sh
+setup.sh
